@@ -1,0 +1,5 @@
+/* mypicker Author     : @arikan*/
+.iconPickerMain{position: relative;}
+.iconPickerSelected{width: 42px;height: 42px;background-size: 36px 36px;border-radius: 3px;background-color: white;background-position: center;background-repeat: no-repeat;border: solid 1px rgb(200,200,200);}
+.iconPickerListContainer{width: 296px;height: 128px;top: 0px;left: 48px;display: none;border-radius: 5px;background-color: white;border: solid 1px rgb(200,200,200);position: absolute;overflow: hidden;z-index: 10000}
+.iconPickerListItem{background-position: center;background-repeat: no-repeat;background-color: white;float: left;margin: 3px;border: none;width: 36px;height: 36px;background-size: 36px 36px;}
